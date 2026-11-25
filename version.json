@@ -1,7 +1,7 @@
 {
- "version": "1.0.4",
- "file": "ConsoTarget_Setup_1_0_4.exe",
- "sha256": "107b4db544eada9dff4598481829140befa8b4e8d4317c6599f22cfe0aab9926",
+ "version": "1.0.5",
+ "file": "ConsoTarget_Setup_1_0_5.exe",
+ "sha256": "4e7093fc97fec0a1d7f309d6a547e36e600f4d24e4c1a24cc49dbcdbab835541",
  "changelog": {
   "ru": "— Первая версия Conso Target: нормы координаторов по часам, разбивка боксов по складам\n— Реальный сбор из WMS (подписанные запросы страницы), история в SQLite\n— Пресеты смен (дневные/ночные, через полночь), автовход, скрытый режим Chrome\n— Автообновление через этот репозиторий",
   "en": "— First Conso Target release: hourly coordinator norms, warehouse box split\n— Real WMS collection (page-signed requests), SQLite history\n— Shift presets (day/night, past midnight), auto-login, hidden Chrome mode\n— Auto-update via this repository",
